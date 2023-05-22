@@ -5,8 +5,7 @@
 マイクから収録された音声の波形，対数パワースペクトル，スペクトログラムをリアルタイムでプロットする．
 実装はすべてPython．ループバックを利用すれば，再生している音に対しても実行可能．
 
-
-![](pic/spec_screen_shot.png)
+<img alt="hoge" src="pic/spec_screen_shot.png" width="350px">
 
 ## 使用言語
 - Python ver 3.8.1
